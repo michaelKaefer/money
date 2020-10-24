@@ -1,0 +1,40 @@
+{
+  "name": "unit/money",
+  "description": "Package for storing, calculating and formatting money units.",
+  "homepage": "http://github.com/michaelKaefer/money",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Käfer",
+      "email": "michael.kaefer1@gmx.at"
+    }
+  ],
+  "keywords": [
+    "php",
+    "unit",
+    "money",
+    "currency",
+    "price"
+  ],
+  "require": {
+    "php": "^7.4",
+    "symfony/intl": "^5.1",
+    "symfony/validator": "^5.1",
+    "twig/intl-extra": "^3.0",
+    "litipk/php-bignumbers": "^0.8.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.3",
+    "symfony/var-dumper": "^5.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Unit\\Money\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Unit\\Money\\Test\\": "tests/"
+    }
+  }
+}
