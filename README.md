@@ -4,7 +4,7 @@ A package for representing, calculating and formatting money units.
 [![Total Downloads](https://poser.pugx.org/unit/money/downloads)](//packagist.org/packages/unit/money)
 [![Version](https://poser.pugx.org/unit/money/version)](//packagist.org/packages/unit/money)
 [![Build Status](https://travis-ci.com/michaelKaefer/money.svg?branch=master)](https://travis-ci.com/michaelKaefer/money)
-[![Coverage Status](https://coveralls.io/repos/github/michaelKaefer/money/badge.svg?branch=master)](https://coveralls.io/github/michaelKaefer/money?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/michaelKaefer/money/badge.svg?branch=main)](https://coveralls.io/github/michaelKaefer/money?branch=main)
 [![Type Coverage](https://shepherd.dev/github/michaelKaefer/money/coverage.svg)](https://shepherd.dev/github/michaelKaefer/money)
 
 ## Installation
@@ -156,4 +156,4 @@ user@machine:~$ make cs-fixer-dry-run
 ```
 
 ## License
-The MIT License (MIT). Please see [License File](https://github.com/michaelKaefer/money/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/michaelKaefer/money/blob/main/LICENSE) for more information.
