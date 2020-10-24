@@ -2,7 +2,7 @@
 A package for representing, calculating and formatting money units.
 
 [![Total Downloads](https://poser.pugx.org/unit/money/downloads)](//packagist.org/packages/unit/money)
-[![Version](https://poser.pugx.org/unit/money/version)](//packagist.org/packages/unit/money)
+[![Version](https://poser.pugx.org/unit/money/v)](//packagist.org/packages/unit/money)
 [![Build Status](https://travis-ci.com/michaelKaefer/money.svg?branch=main)](https://travis-ci.com/michaelKaefer/money)
 [![Coverage Status](https://coveralls.io/repos/github/michaelKaefer/money/badge.svg?branch=main)](https://coveralls.io/github/michaelKaefer/money?branch=main)
 [![Type Coverage](https://shepherd.dev/github/michaelKaefer/money/coverage.svg)](https://shepherd.dev/github/michaelKaefer/money)
