@@ -14,7 +14,11 @@
     "unit",
     "money",
     "currency",
-    "price"
+    "price",
+    "format",
+    "formatter",
+    "calculate",
+    "calculator"
   ],
   "require": {
     "php": "^7.4",
