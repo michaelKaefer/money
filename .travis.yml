@@ -30,11 +30,11 @@ matrix:
 before_install:
   # If it is available update the Symfony binary, if not install it.
   - if symfony self:version --no-interaction; then symfony self:update --yes ; else wget https://get.symfony.com/cli/installer -O - | bash ; fi
-  - composer require satooshi/php-coveralls
 
 install:
   # Install Composer packages including dev dependencies listed in require-dev.
   - composer install
+  - composer require satooshi/php-coveralls
 
 script:
   # There is no need to load data fixtures before running tests because the project repository
